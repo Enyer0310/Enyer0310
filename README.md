@@ -9,7 +9,10 @@
 - CSS ⭐⭐
 - C# ⭐⭐
 
-- 📖 Actualmente estoy aprendiendo **Kotlin Developer**-
+## 📖 Aprendiendo
+- 🌱 Actualmente estoy aprendiendo **Kotlin Developer**-
+
+## 🚀 Contacto
 - 🌱 Cómo comunicarse conmigo **enyer0010@gmail.com**
 
 </p><h3 align="left">Languages and Tools:</h3>
