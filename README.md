@@ -4,9 +4,9 @@
 ## 🚀 Lenguajes utilizados
 
 - Phyton ⭐⭐
-- Android (Java) ⭐⭐⭐
+- Android (Java) ⭐⭐
 - HTML ⭐⭐⭐
-- CSS ⭐⭐⭐
+- CSS ⭐⭐
 - C# ⭐⭐
 
 - 📖 Actualmente estoy aprendiendo **Kotlin Developer**-
