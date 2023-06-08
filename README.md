@@ -3,10 +3,9 @@
 <!-- Lenguajes -->
 ## 🚀 Lenguajes utilizados
 
-- Android (Java o Kotlin)
+- Android (Java)
 - HTML
 - CSS
-
 
 - Actualmente estoy aprendiendo **Kotlin Developer**-
 -  🌱 Cómo comunicarse conmigo **enyer0010@gmail.com**
