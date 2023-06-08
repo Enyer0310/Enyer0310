@@ -3,11 +3,11 @@
 <!-- Lenguajes -->
 ## 🚀 Lenguajes utilizados
 
-- Phyton
-- Android (Java)
-- HTML
-- CSS
-- C#
+- Phyton ⭐⭐
+- Android (Java) ⭐⭐⭐
+- HTML ⭐⭐⭐
+- CSS ⭐⭐⭐
+- C# ⭐⭐
 
 - 📖 Actualmente estoy aprendiendo **Kotlin Developer**-
 - 🌱 Cómo comunicarse conmigo **enyer0010@gmail.com**
