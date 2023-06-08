@@ -11,6 +11,7 @@
 
 ## 📖 Aprendiendo
 - 🌱 Actualmente estoy aprendiendo **Kotlin Developer**-
+- 🌱 Puliendome **HTML,CSS y JavaScript**-
 
 ## 🚀 Contacto
 - 🌱 Cómo comunicarse conmigo **enyer0010@gmail.com**
