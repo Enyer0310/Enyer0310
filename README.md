@@ -1,6 +1,11 @@
 <h1 align="center">Hola 👋, soy Enyerver Huenuqueo</h1><h3 align="center">Un desarrollador apasionado de Kotlin Chileno y me gusta mucho lo relacionado con frontend así que estoy avanzando cursos online</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=enyer0310&label=Profile%20views&color=0e75b6&style=flat" alt="enyer0310" /> </p>
 
+<!-- Lenguajes -->
+## 🚀 Lenguajes utilizados
 
+- Android (Java o Kotlin)
+- HTML
+- CSS
 
 
 - Actualmente estoy aprendiendo **Kotlin Developer**-
