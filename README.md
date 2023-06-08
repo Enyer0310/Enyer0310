@@ -6,7 +6,6 @@
 - Actualmente estoy aprendiendo **Kotlin Developer**-
 -  🌱 Cómo comunicarse conmigo **enyer0010@gmail.com**
 
-<h3 align="left">Conéctate conmigo:</h3><p align="left">
 </p><h3 align="left">Languages and Tools:</h3><
 
 
