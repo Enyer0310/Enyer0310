@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Enyerver Huenuqueo</h1><h3 align="center">Un desarrollador apasionado de Android Chileno y me gusta mucho lo relacionado con frontend así que estoy avanzando en cursos online</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=enyer0310&label=Profile%20views&color=0e75b6&style=flat" alt="enyer0310" /> </p>
+<h1 align="center">Hola 👋, soy Enyerver Huenuqueo</h1><h3 align="center">Un desarrollador novato en general y me gusta mucho lo relacionado con frontend así que estoy avanzando en cursos online</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=enyer0310&label=Profile%20views&color=0e75b6&style=flat" alt="enyer0310" /> </p>
 
 <!-- Lenguajes -->
 ## 🚀 Lenguajes utilizados
@@ -10,7 +10,6 @@
 - C# ⭐⭐
 
 ## 📖 Aprendiendo
-- 🌱 Actualmente estoy aprendiendo **Kotlin Developer**-
 - 🌱 Perfeccionando **HTML, CSS y JavaScript**-
 
 ## 🚀 Contacto
