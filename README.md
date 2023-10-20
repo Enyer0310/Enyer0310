@@ -4,7 +4,9 @@
 ## 🚀 Lenguajes utilizados
 
 - Phyton ⭐⭐
+- Java ⭐⭐
 - Android (Java) ⭐⭐
+- JavaScript ⭐
 - HTML ⭐⭐⭐
 - CSS ⭐⭐
 - C# ⭐⭐
