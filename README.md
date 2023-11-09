@@ -12,10 +12,10 @@
 - C# ⭐⭐
 
 ## 📖 Aprendiendo
-- 🌱 Perfeccionando **HTML, CSS y JavaScript**-
+- 🌱 Cursando **Python**-
 
 ## 🚀 Contacto
-- 🌱 Cómo comunicarse conmigo **enyer0010@gmail.com**
+- 🌱 Cómo comunicarse conmigo **enyervervaironhuenuqueoaburto@gmail.com**
 
 </p><h3 align="left">Languages and Tools:</h3>
 
