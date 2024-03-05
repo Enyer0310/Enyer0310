@@ -4,13 +4,13 @@
 
 ## Lenguajes y Tecnologías
 
-- HTML ⭐⭐⭐
-- CSS ⭐⭐⭐
+- HTML ⭐⭐
+- CSS ⭐⭐
 - JavaScript ⭐⭐
-- React ⭐⭐
+- Android ⭐⭐
 - Python ⭐⭐
-- Java ⭐
-- SQL ⭐
+- Java ⭐⭐
+- SQL ⭐⭐
 
 ## Aprendiendo
 
