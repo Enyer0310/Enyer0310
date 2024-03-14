@@ -14,7 +14,7 @@
 
 ## Aprendiendo
 
-Actualmente estoy aprendiendo React.js y Python avanzado.
+Actualmente estoy aprendiendo PHP y Python avanzado.
 
 ## Contacto
 
