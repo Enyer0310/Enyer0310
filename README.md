@@ -14,7 +14,7 @@
 
 ## Aprendiendo
 
-Actualmente estoy aprendiendo PHP y Python avanzado.
+Actualmente estoy aprendiendo Java y Python avanzado.
 
 ## Contacto
 
